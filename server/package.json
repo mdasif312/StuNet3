@@ -1,0 +1,20 @@
+{
+  "name": "stunet_server",
+  "version": "1.0.0",
+  "description": "stunet server",
+  "main": "app.js",
+  "scripts": {
+    "test": "tests"
+  },
+  "keywords": [
+    "nodejs",
+    "server",
+    "javascript"
+  ],
+  "author": "saitejdandge",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.1"
+  }
+}
